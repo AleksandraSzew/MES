@@ -1,0 +1,23 @@
+﻿Build started 2017-01-24 15:47:40.
+     1>Project "E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\MES2.2\MES2.2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MES2.2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\okla\okla\agh\semestr5\psi\projekt\mes2.2\mes2.2\main.cpp(141): warning C4101: 'apt' : unreferenced local variable
+     1>e:\okla\okla\agh\semestr5\psi\projekt\mes2.2\mes2.2\main.cpp(250): warning C4101: 'apt' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MES2.2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.lib" /MACHINE:X86 Debug\main.obj
+         LINK : E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.exe not found or not built by the last incremental link; performing full link
+         MES2.2.vcxproj -> E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\Debug\MES2.2.exe;#1" /manifest Debug\MES2.2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\MES2.2.unsuccessfulbuild".
+         Touching "Debug\MES2.2.lastbuildstate".
+     1>Done Building Project "E:\Okla\Okla\AGH\SEMESTR5\PSI\Projekt\MES2.2\MES2.2\MES2.2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50
