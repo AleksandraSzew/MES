@@ -7,3 +7,5 @@ In the problem discussed, heat is transmitted through conduction. This problem i
 The problem which simulation will deal with is hardening of steel in two centers - in water and in transformer oil.
 Hardening of iron alloys is a type of heat treatment of iron alloys (for example steel), consisting in quick cooling of previously heated material.
 
+![](steal.jpg)
+
